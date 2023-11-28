@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @victoriadim
-- 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning Fundamentals with Python in SoftUni
+- 👀 I’m interested in Python and SQL.
+- 🌱 I’m currently learning Fundamentals with Python in SoftUni.
 - 📫 How to reach me: https://www.linkedin.com/in/viktoria-nedelcheva-8b2174271/
