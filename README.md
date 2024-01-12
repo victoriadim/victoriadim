@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viktoriya</h1>
 <h3 align="center">A passionate Python developer</h3>
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🌱 I’m currently learning **Python Advanced in SoftUni**
 
