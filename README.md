@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viktoriya</h1>
 <h3 align="center">A passionate Python developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/bg/view/coding-gif-4706460855862906629](https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media)">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm/fullscreen">
 
 - 🌱 I’m currently learning **Python Advanced in SoftUni**
 
