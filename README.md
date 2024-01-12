@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Python developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **Python Advanced in SoftUni**
 
 <h3 align="left">Connect with me:</h3>
