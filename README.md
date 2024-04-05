@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victoria</h1>
+i<h1 align="center">Hi 👋, I'm Victoria</h1>
 <h3 align="center">A passionate Python and SQL developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
